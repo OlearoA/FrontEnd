@@ -1,0 +1,132 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.logo-nombre{
+    font-family: sans-serif;
+    color:white;
+    margin-left:30px;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 0;
+    
+}
+
+header{
+    display: flex;
+    background-color: black;
+    height: 60px;
+    justify-content: space-between;
+    padding:10px;
+    align-items: center;
+}
+.logo{
+    display:flex;
+    align-items: center;
+}
+.logoargprograma img{
+    display: flex;
+    align-items: center;
+  
+}
+body banner{
+    height: 100%;
+    object-fit: cover;
+    margin-top:0;
+    background-color: black;
+}
+nav img{
+    padding-right: none;
+}
+
+.fotoperfil {
+    margin: left 100px;
+    margin-top: 10px;
+}
+
+.datos{
+    font-family: sans-serif;
+    margin-left: 10px;
+    margin-top: 10px;
+    line-height:5px;
+}
+.logounl{
+    display: flex;
+    float:right;
+    align-items: center;
+}
+
+.acercade{
+    font-family: sans-serif;
+    margin-left: 10px;
+    margin-top: 30px;
+    line-height:5px;
+    display: flex;
+}
+
+.experiencia{
+    font-family: sans-serif;
+    margin-left: 10px;
+    margin-top: 30px;
+    line-height:5px;
+}
+.educacion{
+    font-family: sans-serif;
+    margin-left: 10px;
+    margin-top: 30px;
+    line-height:5px;
+ }
+
+.filas{
+display:flex;
+padding:15px;
+}
+
+
+
+.logoargprograma2, .logoargprograma3, .logojuanxiii,.logoiss, .logounl, .logounled, .phyton, .folderit, .codoacodo, .logogoogleactivate, .armadopc {
+    margin-right: 15px;
+    float:left;
+    vertical-align: middle;
+    margin-top:3px;
+}
+
+.skills{
+    font-family: sans-serif;
+    margin-left: 10px;
+    margin-top: 30px;
+    line-height:5px;
+}
+
+.contacto{
+    color:#2E51DD;
+}
+
+.skillfilas{
+    display:flex;
+    padding:15px;  
+}
+
+.renglon{
+    padding-top:15px;
+}
+
+.proyectos{
+    font-family: sans-serif;
+    display: flex;
+    padding-left:10px;
+}
+
+.proyectofilas{
+    display:flex;
+    padding:15px;  
+    margin-top:30;
+    line-height: 8px;
+}
+
+
+.lenguajefilas{
+    display:flex;
+    padding:15px;  
+}
